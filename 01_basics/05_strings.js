@@ -34,3 +34,13 @@ const newString02=new String("Meak-is-Gupta")
 console.log(newString02.split('-',2)); //[ 'Meak', 'is' ]-A value used to limit the number of elements returned in the array.
 //Split a string into substrings using the specified separator and return them as an array.
 
+/* 
+Escape Characters:
+Special characters can be included in strings using the backslash (\) escape character
+let str6 = 'It\'s a nice day'; // 'It's a nice day'
+let str7 = "He said, \"Hello!\""; // 'He said, "Hello!"'
+
+read from gpt-string functions in js
+
+
+*/
