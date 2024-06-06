@@ -25,6 +25,6 @@ let state;// undefined
 
 
 // object
-console.log(typeof age);
+console.log(typeof age);//number
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object

@@ -23,6 +23,7 @@ const JsUser = {
 // console.log(JsUser["email"])
 // console.log(JsUser["full name"])
  console.log(JsUser[mySym])
+ console.log(JsUser["isLoggedIn"]);
 
 // JsUser.email = "hitesh@chatgpt.com" //change 
 // // Object.freeze(JsUser) //user change na krpaye
